@@ -1,6 +1,6 @@
 {
-    "server":"127.0.0.1",
-    "server_port":"2333",
+    "server":"fake.vipkingnetwork.ml",
+    "server_port":"2083",
     "password":"${PASSWORD}",
     "timeout":300,
     "method":"${ENCRYPT}",
